@@ -1,5 +1,1 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fwaving-hand-gifs&psig=AOvVaw06Clf7boSC8HHzcuPsvX2_&ust=1671519858952000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOj54eyOhfwCFQAAAAAdAAAAABAE" alt="yay">
-<!---
-Po1son71/Po1son71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://twitter.com/Zimbu4" rel="nofollow"><img src="https://camo.githubusercontent.com/2cbca4be42d81c6833fd417d74f5322e80861326d03d52289924138947be7b4e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f6c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
